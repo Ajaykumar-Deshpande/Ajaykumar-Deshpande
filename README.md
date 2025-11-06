@@ -1,4 +1,4 @@
-# Hello 👋, I'm AjayKumar Deshpande
+
 
 ## A passionate developer and lifelong learner.
 
