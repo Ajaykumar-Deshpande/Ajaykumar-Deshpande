@@ -1,10 +1,8 @@
-
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0dce6884-053a-4a86-ab8a-deb5af5ad13b" />
 
 ## A passionate developer and lifelong learner.
 
-<p align="center">
-  <img alt="Coding Animation" width="350" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" />
-</p>
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F5eKX&psig=AOvVaw3rYACZaIGQw6ZXoGD5yD5B&ust=1762510757320000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODx_rSm3ZADFQAAAAAdAAAAABAE
 
 ---
 
