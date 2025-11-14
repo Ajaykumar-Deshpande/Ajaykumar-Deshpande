@@ -1,4 +1,4 @@
-# 👋 Hi I'm Ajay Kumar Deshpande  
+# 👋 Hi I'm Ajay Deshpande  
 ### 🚀 Passionate Developer | Lifelong Learner | Tech Enthusiast  
 
 <p align="center">
