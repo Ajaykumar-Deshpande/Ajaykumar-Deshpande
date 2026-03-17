@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me  
 - 💡 I love solving problems and learning new technologies  
-- 💬 Ask me about **Java, MySQL, and Python**  
+- 💬 Ask me about **Python, MySQL, and Java **  
 - 📫 Reach me at: **ajaydeshpande787898@gmail.com**  
 - 🌱 Currently exploring **Spring Boot** & **RESTful APIs**  
 - ⚡ Fun fact: I debug my code more than I write it 😄  
