@@ -1,5 +1,5 @@
 # 👋 Hi I'm Ajay Deshpande  
-### 🚀 Passionate Developer | Lifelong Learner | Tech Enthusiast  
+### 🚀 Passionate Developer | Lifelong Learner  
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
