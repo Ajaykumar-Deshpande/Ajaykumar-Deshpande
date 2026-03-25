@@ -1,44 +1,78 @@
-# 👋 Hi I'm Ajay Deshpande  
-### 🚀 Passionate Developer | Lifelong Learner  
+<!-- 🔥 HERO SECTION WITH PROFESSIONAL EFFECTS -->
+<h1 align="center" style="font-size: 44px; font-weight: bold; text-shadow: 0 0 10px #00BFFF, 0 0 20px #00BFFF;">
+  Hi 👋, I'm <span style="color:#00BFFF;">Ajay Deshpande</span>
+</h1>
+
+<h3 align="center" style="color: #c0c0c0; text-shadow: 0 0 5px #00BFFF;">
+  🚀 Passionate Developer | Backend Developer
+</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=000000&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Engineer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius: 15px; box-shadow: 0 0 30px #00BFFF;" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
-- 💡 I love solving problems and learning new technologies  
-- 💬 Ask me about **Python, MySQL, and Java **  
-- 📫 Reach me at: **ajaydeshpande787898@gmail.com**  
-- 🌱 Currently exploring **Spring Boot** & **RESTful APIs**  
-- ⚡ Fun fact: I debug my code more than I write it 😄  
+<!-- 🧑‍💻 ABOUT ME WITH GRADIENT CAPSULE -->
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header&text=About+Me&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
+</h2>
+
+<div align="center" style="line-height:2; font-size:18px; color:#ffffff; text-shadow: 0 0 5px #00BFFF, 0 0 10px #00BFFF;">
+💡 Passionate about solving real-world problems through code<br>
+🧠 Strong interest in <b>Backend Development</b><br>
+💻 Skilled in <b>Python, Java & MySQL</b><br>
+⚡ <i>Debugging is my cardio 😄</i>
+</div>
 
 ---
 
-## 🌐 Connect With Me  
+<!-- 🧰 TECH STACK WITH PROFESSIONAL GLOW -->
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header&text=Tech+Stack&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
+</h2>
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,git" 
+       style="padding: 12px; border-radius: 15px; background: linear-gradient(135deg,#00BFFF,#1E90FF); box-shadow: 0 0 25px #00BFFF;" />
+</p>
+
+---
+
+<!-- 🌐 CONNECT WITH GLOWING EFFECT -->
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header&text=Connect+With+Me&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
+</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+         style="margin:5px; filter: drop-shadow(0 0 10px #00BFFF);" />
   </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
+         style="margin:5px; filter: drop-shadow(0 0 10px #00BFFF);" />
   </a>
-  <a href="mailto:ajaydeshpande787898@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:ajaydeshpande787898@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         style="margin:5px; filter: drop-shadow(0 0 10px #00BFFF);" />
   </a>
 </p>
 
 ---
 
-## 🧰 Languages & Tools  
+<!-- 🧠 QUOTE WITH NEON STYLE -->
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header&text=Developer+Mindset&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
+</h2>
 
-<p align="center">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/><_
+<p align="center" style="font-size:18px; color:#ffffff; text-shadow: 0 0 8px #00BFFF, 0 0 15px #00BFFF;">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
+
+---
+
