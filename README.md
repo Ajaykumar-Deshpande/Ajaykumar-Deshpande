@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center" style="color: #c0c0c0; text-shadow: 0 0 5px #00BFFF;">
-  🚀 Passionate Developer | Backend Developer
+  🚀 Passionate Developer
 </h3>
 
 <p align="center">
