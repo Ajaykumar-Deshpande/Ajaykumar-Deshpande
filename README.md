@@ -37,7 +37,19 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,git" 
+  <img src="https://skillicons.dev/icons?i=java" title="Java" 
+       style="padding: 12px; border-radius: 15px; background: linear-gradient(135deg,#00BFFF,#1E90FF); box-shadow: 0 0 25px #00BFFF;" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" 
+       style="padding: 12px; border-radius: 15px; background: linear-gradient(135deg,#00BFFF,#1E90FF); box-shadow: 0 0 25px #00BFFF;" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" 
+       style="padding: 12px; border-radius: 15px; background: linear-gradient(135deg,#00BFFF,#1E90FF); box-shadow: 0 0 25px #00BFFF;" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" 
+       style="padding: 12px; border-radius: 15px; background: linear-gradient(135deg,#00BFFF,#1E90FF); box-shadow: 0 0 25px #00BFFF;" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" 
+       style="padding: 12px; border-radius: 15px; background: linear-gradient(135deg,#00BFFF,#1E90FF); box-shadow: 0 0 25px #00BFFF;" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" 
+       style="padding: 12px; border-radius: 15px; background: linear-gradient(135deg,#00BFFF,#1E90FF); box-shadow: 0 0 25px #00BFFF;" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" 
        style="padding: 12px; border-radius: 15px; background: linear-gradient(135deg,#00BFFF,#1E90FF); box-shadow: 0 0 25px #00BFFF;" />
 </p>
 
